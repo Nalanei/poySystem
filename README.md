@@ -1,6 +1,6 @@
 # vuetes
 
-> A Vue.js project
+> 基于vue的一个点单系统页面设计
 
 ## Build Setup
 
